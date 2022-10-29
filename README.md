@@ -11,7 +11,7 @@
 
 - 📫 How to reach me --- athulh2234@gmail.com
 
-- ⚡ Hobbies--- programming👨‍💻,JIM🏋️,Music🎧🎼
+- ⚡ Hobbies--- programming👨‍💻,WE GO JIM🏋️,Music🎧🎼
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
