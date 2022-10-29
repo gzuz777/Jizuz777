@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning -- HTML,CSS,js,php,python -Front-End Development
 
-- 👯 I’m looking to collaborate on -- web developement and UI/UX design
+- 👯 I’m looking to work on  -- web developement and UI/UX design
 
 - 📫 How to reach me --- athulh2234@gmail.com
 
