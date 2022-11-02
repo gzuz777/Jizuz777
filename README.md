@@ -6,11 +6,11 @@
 
 🌱 I’m currently learning -- HTML,CSS,JS,PHP,PYTHON -Front-End Development
 
-👯 I’m looking to work on  -- web developement, AI  and UI/UX design
+👯 I’m looking to work on  -- Web developement, AI  and UI/UX design
 
 📫 How to reach me --- athulh2234@gmail.com
 
-⚡ Hobbies--- programming👨‍💻,WE GO JIM🏋️,Music🎧,Gaming🎮
+⚡ Hobbies--- Programming👨‍💻,WE GO JIM🏋️,Music🎧,Gaming🎮
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
