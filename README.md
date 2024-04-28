@@ -1,4 +1,4 @@
-![logo](https://github.com/Jizuz666/Jizuz666/blob/main/front%20end%20Software%20Developer.png)
+![logo](https://github.com/https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)
 <h1 align="center">Hi 👋, I'm Athul H</h1>
 <h3 align="center">A passionate frontend developer from India </h3>
 
